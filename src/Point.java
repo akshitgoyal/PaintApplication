@@ -1,4 +1,4 @@
-package paint;
+package src;
 
 public class Point {
 	int x, y; // Available to our package

@@ -1,4 +1,4 @@
-package paint;
+package src;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;

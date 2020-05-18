@@ -1,4 +1,4 @@
-package paint;
+package src;
 
 public class ShapeManipulatorFactory {
 	public static ShapeManipulatorStrategy create(String strategyName, PaintModel paintModel){

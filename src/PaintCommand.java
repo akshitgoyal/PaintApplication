@@ -1,4 +1,4 @@
-package paint;
+package src;
 import java.util.Observable;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;

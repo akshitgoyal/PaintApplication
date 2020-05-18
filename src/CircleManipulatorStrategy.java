@@ -1,4 +1,4 @@
-package paint;
+package src;
 import javafx.scene.input.MouseEvent;
 
 class CircleManipulatorStrategy extends ShapeManipulatorStrategy {

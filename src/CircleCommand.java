@@ -1,4 +1,4 @@
-package paint;
+package src;
 import javafx.scene.canvas.GraphicsContext;
 
 public class CircleCommand extends PaintCommand {

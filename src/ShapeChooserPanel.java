@@ -1,4 +1,4 @@
-package paint;
+package src;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
