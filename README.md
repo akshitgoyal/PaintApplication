@@ -2,12 +2,13 @@
 A paint application built using Java. 
 
 # Features of the application
-Using this applications, you can fraw the following: 
+Using this applications, you can draw the following: 
 - Rectangle 
 - Polyline 
 - Circle 
 - Squiggle 
 
+The application also allows you to save your drawings and load them later.
 
 # How to install the application
 Requirements: Eclipse or similar IDE 
